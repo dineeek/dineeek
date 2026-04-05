@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DD6387&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dino+Kli%C4%8Dek+%F0%9F%91%8B;Frontend+Engineer;Angular+%2B+TypeScript+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DD6387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dino+Kli%C4%8Dek+%F0%9F%91%8B;Frontend+Engineer;Angular+%2B+TypeScript+Specialist" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -31,19 +31,33 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,rxjs" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,rxjs" />
+</p>
+
+**State Management & Monorepo**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nx,ngrx" />
 </p>
 
 **Testing**
 
 <p>
   <img src="https://skillicons.dev/icons?i=jest,cypress" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,npm,sentry,docker,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,npm,docker,sentry,idea,vscode" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -56,15 +70,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## GitHub Stats
+## GitHub Streak
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dineeek&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dineeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineeek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=dineeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
