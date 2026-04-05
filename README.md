@@ -1,26 +1,88 @@
-# Hi there! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DD6387&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dino+Kli%C4%8Dek+%F0%9F%91%8B;Frontend+Engineer;Angular+%2B+TypeScript+Specialist" alt="Typing SVG" />
+  </a>
+</h1>
 
-I'm Dino Kliček, a passionate Frontend Engineer from Croatia. Welcome to my GitHub profile!
+<p align="center">
+  <em>Frontend Engineer from Croatia, building scalable web applications with Angular & TypeScript.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dineeek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dineeek.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/dineeek"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## About Me
 
-- 🔧 Working as Frontend engineer (Angular + Typescript)
-- 💬 I am interested in frontend technologies and web scraping.
-- 📫 How to reach me: dineeek.dev@gmail.com.
+- 🔧 Frontend Engineer specializing in **Angular** and **TypeScript**
+- 🏗️ Passionate about clean architecture, performance optimization, and developer tooling
+- 🕷️ Web scraping enthusiast in my spare time
+- 🌍 Based in Croatia
+- 💡 Always looking to learn and share knowledge with the community
 
-## Technologies & Tools
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-![Skills](https://skillicons.dev/icons?i=angular,ts,html,css,jest,cypress,js,react,npm,sentry,idea,vscode&perLine=6)
+## Tech Stack
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,rxjs" />
+</p>
+
+**Testing**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,npm,sentry,docker,idea,vscode" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## What I'm Up To
+
+- 🔭 Building enterprise-scale Angular applications
+- 🌱 Exploring signals, zoneless Angular, and modern reactive patterns
+- ⚡ Experimenting with AI-assisted development workflows
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dineeek&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dineeek&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dineeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## Connect with Me
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineeek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/dineeek)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-Feel free to explore my repositories, and don't hesitate to reach out! 🚀
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineeek/dineeek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineeek/dineeek/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dineeek/dineeek/output/github-snake-dark.svg" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineeek&color=DD6387&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>Feel free to explore my repositories, and don't hesitate to reach out!</em>
+</p>
