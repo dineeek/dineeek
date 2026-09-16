@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="Dino Kliček, frontend engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#eaeef2"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#dd6387"/><stop offset="0.55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <rect width="1000" height="190" rx="14" fill="url(#bg)"/>
+  <rect x="40" y="40" width="6" height="110" rx="3" fill="url(#accent)"/>
+  <text x="70" y="88" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#1f2328">Dino Kliček</text>
+  <text x="70" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#59636e">Frontend engineer · Angular form controls · browser extensions · IDE plugin · watch faces</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.9" transform="translate(880 95)">
+    <circle r="46"/><circle r="30" stroke-dasharray="4 6"/><circle r="6" fill="url(#accent)" stroke="none"/>
+  </g>
+</svg>
